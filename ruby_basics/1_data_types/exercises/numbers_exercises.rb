@@ -6,7 +6,7 @@ end
 def subtract(a, b)
   # return the result of subtracting b from a
   a - b
-end
+end``
 
 def multiply(a, b)
   # return the result of multiplying a times b
@@ -29,7 +29,7 @@ def float_division(a, b)
   a / b.to_f
   # return the result of dividing a by b as a float, rather than an integer
 end
-
+``
 def string_to_number(string)
   # return the result of converting a string into an integer
   string.to_i
